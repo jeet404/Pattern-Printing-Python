@@ -1,4 +1,4 @@
-# Opposite pyramid pattern
+# Downward half Pyramid
 
 def drawP(n):
     for i in range(n + 1, 0, -1):
